@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383706099188",
+    "project_id": "calling-teacher",
+    "storage_bucket": "calling-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383706099188:android:0a1b63e4e7b2f7c1871da1",
+        "android_client_info": {
+          "package_name": "com.example.callingteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383706099188-ru3hrr93n16ase82kl11fsp5gmm1dd51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiksWt5Dkkg7CFePIHSZk_J-hdRgZC0Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383706099188-ru3hrr93n16ase82kl11fsp5gmm1dd51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
